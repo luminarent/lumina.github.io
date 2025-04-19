@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "about": "Sobre",
+    "contact": "Contato",
+    "social": "Social"
+  },
+  "main": {
+    "title": "Lumina Rent",
+    "subtitle": "Estamos construindo algo especial para clínicas de estética.",
+    "description": "Fique atento para mais informações."
+  },
+  "footer": {
+    "copyright": "© {{year}} Lumina Rent. Todos os direitos reservados."
+  },
+  "about": {
+    "title": "Sobre Nós",
+    "mission": "Na Lumina Rent, estamos revolucionando a forma como as clínicas de estética acessam e utilizam equipamentos de alta qualidade. Nossa missão é tornar a tecnologia estética de ponta acessível para clínicas de todos os portes, permitindo que ofereçam cuidados excepcionais aos seus pacientes.",
+    "vision": "Visualizamos um futuro onde toda clínica de estética tenha acesso à tecnologia mais recente, independentemente do seu tamanho ou localização. Ao fornecer soluções de aluguel flexíveis, estamos ajudando as clínicas a permanecerem na vanguarda da medicina estética.",
+    "values": "Nossos valores fundamentais incluem inovação, acessibilidade e excelência. Estamos comprometidos em fornecer equipamentos confiáveis e de alta qualidade, além de um serviço excepcional a todos os nossos parceiros."
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "subject": "Assunto",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem"
+    }
+  },
+  "social": {
+    "title": "Conecte-se Conosco"
+  }
+} 

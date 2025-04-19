@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "about": "About",
+    "contact": "Contact",
+    "social": "Social"
+  },
+  "main": {
+    "title": "Lumina Rent",
+    "subtitle": "We are building something special for aesthetic clinics.",
+    "description": "Stay tuned for more information."
+  },
+  "footer": {
+    "copyright": "© {{year}} Lumina Rent. All rights reserved."
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "At Lumina Rent, we're revolutionizing the way aesthetic clinics access and utilize high-quality equipment. Our mission is to make cutting-edge aesthetic technology accessible to clinics of all sizes, enabling them to provide exceptional care to their patients.",
+    "vision": "We envision a future where every aesthetic clinic has access to the latest technology, regardless of their size or location. By providing flexible rental solutions, we're helping clinics stay at the forefront of aesthetic medicine.",
+    "values": "Our core values include innovation, accessibility, and excellence. We're committed to providing reliable, high-quality equipment and exceptional service to all our partners."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  },
+  "social": {
+    "title": "Connect With Us"
+  }
+} 
