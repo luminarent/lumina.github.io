@@ -43,7 +43,7 @@ logs/
 *.tsbuildinfo
 
 # Package manager specific
-package-lock.json
+# package-lock.json
 yarn.lock
 pnpm-lock.yaml
 
